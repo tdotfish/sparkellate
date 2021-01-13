@@ -8,3 +8,9 @@ https://www.instructables.com/HackerBox-0059-Tessellate/
 
 Enables the polyhedron to display a pattern when sitting stationary
 while switching to the default tilt color change effect when moved around
+
+Twitter: @tdotfish
+
+Github:  https://github.com/tdotfish
+
+Web: https://tdot.fish/
